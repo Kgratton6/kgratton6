@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Kgratton6/kgratton6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+👋 Hi there! I'm a **Computer Engineering student at Polytechnique Montreal** with a passion for informatics. I love diving into the world of technology and exploring new concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Pursuing a degree in Computer Engineering at Polytechnique Montreal.
+- 💻 Always eager to learn more about informatics.
+- 🌱 Interested in software development, processor hardware design, and AI.
+
+## What You'll Find Here
+
+In this GitHub repository, you'll discover a mix of my academic and personal projects. These include:
+
+### School-Related Projects
+
+- **Coursework Projects:** Various assignments and projects completed as part of my studies.
+- **Collaborative Work:** Group projects and team collaborations from my courses.
+
+### Personal Projects
+
+- **Hobby Projects:** Fun and experimental projects I've worked on in my free time.
+
+Feel free to explore my repositories and see what I've been working on. I'm always open to feedback and collaboration opportunities!
+
+## Get in Touch
+
+- 📫 You can reach me at: [kevingratton23@gmail.com]
+- 🌐 Connect with me on [www.linkedin.com/in/kevin-gratton-570a892b7]
+
+Thank you for visiting my profile!
