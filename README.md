@@ -26,7 +26,5 @@ Feel free to explore my repositories and see what I've been working on. I'm alwa
 
 ## Get in Touch
 
-- 📫 You can reach me at: [kevingratton23@gmail.com]
+- 📫 You can reach me at: [kevin-santiago.gratton-fournier@polymtl.ca]
 - 🌐 Connect with me on [www.linkedin.com/in/kevin-gratton-570a892b7]
-
-Thank you for visiting my profile!
