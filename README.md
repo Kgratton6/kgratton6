@@ -1,7 +1,7 @@
 
-# Welcome to My GitHub Profile!
+# 🎹 Kevin Gratton
 
-I'm a **Computer Engineering student at Polytechnique Montreal** with a passion for informatics. I love diving into the world of technology and exploring new concepts.
+Welcome to My GitHub Profile! I'm a **Computer Engineering student at Polytechnique Montreal** with a passion for informatics. I love diving into the world of technology and exploring new concepts.
 
 ## About Me
 
