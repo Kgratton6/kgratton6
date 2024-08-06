@@ -1,5 +1,4 @@
-
-# Hello World, im Kevin 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Kevin!</h1>
 
 **`Computer Engineering Student`**
 
@@ -11,7 +10,7 @@ Welcome to My GitHub Profile! I'm a **Computer Engineering student at Polytechni
 - 🌱 Interested in software development, processor hardware design, and AI.
 - 🏃‍♂️ Advocate of a healthy lifestyle and hobbies : I enjoy running and playing the piano.
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <img align="left" width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 <img align="left" width="30" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
@@ -32,24 +31,19 @@ Welcome to My GitHub Profile! I'm a **Computer Engineering student at Polytechni
 
 In this GitHub repository, you'll discover a mix of my academic and personal projects. These include:
 
-### School-Related Projects
+- 📚 **School-Related Projects :** Various assignments and Group collaborations completed as part of my studies.
+- 📌 **Personal Projects :** Projects I undertake to explore and learn new technologies in my free time.
 
-- **Coursework Projects:** Various assignments and projects completed as part of my studies.
-- **Collaborative Work:** Group projects and team collaborations from my courses.
-
-### Personal Projects
-
-- **Hobby Projects:** Fun and experimental projects I've worked on in my free time.
-
-Feel free to explore my repositories and see what I've been working on. I'm always open to feedback and collaboration opportunities!
-
-## Get in Touch
-
-- 📫 You can reach me at : [kevin-santiago.gratton-fournier@polymtl.ca]
-- 🌐 Connect with me on : [www.linkedin.com/in/kevin-gratton-570a892b7]
+## 📈 My GitHub stats
 
 <div class="badges-githubstats">
-  <p align="left">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgratton6&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&layout=compact">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kgratton6&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
   </p>
 </div>
+
+## 📪 Get in Touch
+
+- 📧 You can reach me at : [kevin-santiago.gratton-fournier@polymtl.ca]
+- 🌐 Connect with me on : [www.linkedin.com/in/kevin-gratton-570a892b7]
