@@ -1,7 +1,7 @@
 
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile
 
-👋 Hi there! I'm a **Computer Engineering student at Polytechnique Montreal** with a passion for informatics. I love diving into the world of technology and exploring new concepts.
+I'm a **Computer Engineering student at Polytechnique Montreal** with a passion for informatics. I love diving into the world of technology and exploring new concepts.
 
 ## About Me
 
