@@ -8,7 +8,7 @@ Welcome to My GitHub Profile! I'm a **Computer Engineering student at Polytechni
 
 - 🎓 Pursuing a degree in Computer Engineering at Polytechnique Montreal.
 - 🌱 Interested in software development, processor hardware design, and AI.
-- 🏃‍♂️ Advocate of a healthy lifestyle and hobbies : I enjoy running and playing the piano.
+- 🏃‍♂️ Advocate of a healthy lifestyle and hobbies
 
 ## Languages and Tools
 
