@@ -39,7 +39,6 @@ In this GitHub repository, you'll discover a mix of my academic and personal pro
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgratton6&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&layout=compact">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kgratton6&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
   </p>
 </div>
 
