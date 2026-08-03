@@ -33,13 +33,6 @@ In this GitHub repository, you'll discover a mix of my academic and personal pro
 - 📚 **School-Related Projects:** Various assignments and group collaborations completed as part of my studies.
 - 📌 **Personal Projects:** Projects I undertake to explore and learn new technologies in my free time.
 
-## 📈 My GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Kgratton6 GitHub Stats" height="190" />
-  <img src="https://vercel.app" alt="Kgratton6 Top Languages" height="190" />
-</p>
-
 ## 📪 Get in Touch
 
 - 📧 Email: [kevin-santiago.gratton-fournier@polymtl.ca](mailto:kevin-santiago.gratton-fournier@polymtl.ca)
