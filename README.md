@@ -31,15 +31,15 @@ Welcome to My GitHub Profile! I'm a **Master's student in Computer Engineering a
 ## What You'll Find Here
 In this GitHub repository, you'll discover a mix of my academic and personal projects, spanning both software and embedded systems. These include:
 - 📚 **School-Related Projects:** Various assignments and group collaborations completed as part of my studies.
-- 🔧 **Embedded Systems Projects:** Hardware-focused work involving processor design, robotics, and low-level programming.
 - 📌 **Personal Projects:** Projects I undertake to explore and learn new technologies in my free time.
 
-## 📈 My GitHub stats
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgratton6&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&layout=compact">
-  </p>
-</div>
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgratton6&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&layout=compact" />
+</p>
+
 ## 📪 Get in Touch
-- 📧 You can reach me at: [kevin-santiago.gratton-fournier@polymtl.ca]
-- 🌐 Connect with me on: [LinkedIn](https://www.linkedin.com/in/kevin-gratton-570a892b7)
+
+- 📧 Email: [kevin-santiago.gratton-fournier@polymtl.ca](mailto:kevin-santiago.gratton-fournier@polymtl.ca)
+- 🌐 LinkedIn: [linkedin.com/in/kevin-gratton-570a892b7](https://www.linkedin.com/in/kevin-gratton-570a892b7)
