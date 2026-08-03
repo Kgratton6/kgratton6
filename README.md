@@ -35,9 +35,13 @@ In this GitHub repository, you'll discover a mix of my academic and personal pro
 
 ## 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgratton6&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&layout=compact" />
+## 📈 My GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="Kgratton6 GitHub Stats" height="190" />
+  <img src="https://vercel.app" alt="Kgratton6 Top Languages" height="190" />
 </p>
+
 
 ## 📪 Get in Touch
 
