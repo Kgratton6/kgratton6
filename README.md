@@ -35,5 +35,5 @@ In this GitHub repository, you'll discover a mix of my academic and personal pro
 
 ## 📪 Get in Touch
 
-- 📧 Email: [kevin-santiago.gratton-fournier@polymtl.ca](mailto:kevin-santiago.gratton-fournier@polymtl.ca)
+- 📧 Email: [kevin-santiago.gratton-fournier@etud.polymtl.ca](mailto:kevin-santiago.gratton-fournier@etud.polymtl.ca)
 - 🌐 LinkedIn: [https://www.linkedin.com/in/kevin-gratton-fournier-570a892b7/](https://www.linkedin.com/in/kevin-gratton-fournier-570a892b7/)
