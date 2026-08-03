@@ -2,12 +2,11 @@
 
 **`Master's Student in Computer Engineering`**
 
-Welcome to My GitHub Profile! I'm a **Master's student in Computer Engineering (Research) at Polytechnique Montreal**, passionate about **cybersecurity** and **embedded systems**. I love learning new technologies and applying my knowledge to real-world projects.
+Welcome to My GitHub Profile! I'm a **Master's student in Computer Engineering at Polytechnique Montreal**, passionate about **cybersecurity** and **embedded systems**. I love learning new technologies and applying my knowledge to real-world projects.
 
 ## About Me
 - 🎓 Pursuing a Master's degree in Computer Engineering at Polytechnique Montreal, focused on synchronized tracing of heterogeneous CPU-FPGA systems.
-- 🔐 Passionate about cybersecurity, embedded systems, and hardware-software integration.
-- 💼 Currently working as a Software Developer, Access Governance (ESDL) at Mouvement Desjardins.
+- 💼 Currently working as a Software Developer, Access Governance at Mouvement Desjardins.
 - 🌱 Always curious to deepen my knowledge in these constantly evolving fields.
 - 🏃‍♂️ Advocate of a healthy lifestyle and hobbies
 
@@ -25,8 +24,6 @@ Welcome to My GitHub Profile! I'm a **Master's student in Computer Engineering (
 <img align="left" width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
 <img align="left" width="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 <img align="left" width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/>
-<img align="left" width="30" src="https://user-images.githubusercontent.com/25181517/183914128-3fc44735-9c53-4f7d-8c00-37e2b53c4382.png" alt="SQL" title="SQL"/>
-<img align="left" width="30" src="https://user-images.githubusercontent.com/25181517/183423775-2276e097-e625-4b03-847e-31fc41d9c6b0.png" alt="Docker" title="Docker"/>
 <img align="left" width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 
 <br />
