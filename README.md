@@ -42,4 +42,4 @@ In this GitHub repository, you'll discover a mix of my academic and personal pro
 ## 📪 Get in Touch
 
 - 📧 Email: [kevin-santiago.gratton-fournier@polymtl.ca](mailto:kevin-santiago.gratton-fournier@polymtl.ca)
-- 🌐 LinkedIn: [linkedin.com/in/kevin-gratton-570a892b7](https://www.linkedin.com/in/kevin-gratton-570a892b7)
+- 🌐 LinkedIn: [https://www.linkedin.com/in/kevin-gratton-fournier-570a892b7/](https://www.linkedin.com/in/kevin-gratton-fournier-570a892b7/)
